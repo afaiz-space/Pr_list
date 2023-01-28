@@ -9,8 +9,9 @@ body{
     background: hsl(0, 100%, 99%);
 }
 header {
-    border-bottom:1px solid black;
-    padding:12px 0px;
+    
+    border-bottom: 1px solid rgb(124, 124, 124);
+    padding: 12px 0px;
     background: hsl(0, 0%, 96%);
 }
 .container{
