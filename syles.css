@@ -9,7 +9,7 @@ body{
     background: hsl(0, 100%, 99%);
 }
 header {
-    border:1px solid black;
+    border-bottom:1px solid black;
     padding:12px 0px;
     background: hsl(0, 0%, 96%);
 }
